@@ -1,5 +1,10 @@
 pylsd
 =============
+### NOTE
+This repository is a fork of original pylsd repository from [primetang/pylsd](https://github.com/primetang/pylsd) with following issues fixed :
+1. File Not Found Error ( Issue No. 8 in original repository)
+2. Certain import errors which I faced when using pylsd 
+All credit goes to the original author of the repository for the amazing work. 
 
 ### 1. Introduction
 
